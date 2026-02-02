@@ -1,7 +1,7 @@
-package com.algomesti.pocminio.job;
+package com.algomesti.pocseaweedfs.job;
 
-import com.algomesti.pocminio.model.AlertEntity;
-import com.algomesti.pocminio.repository.AlertRepository;
+import com.algomesti.pocseaweedfs.model.AlertEntity;
+import com.algomesti.pocseaweedfs.repository.AlertRepository;
 import io.minio.GetObjectArgs;
 import io.minio.MinioClient;
 import io.minio.StatObjectArgs;

@@ -1,6 +1,6 @@
-package com.algomesti.pocminio.repository;
+package com.algomesti.pocseaweedfs.repository;
 
-import com.algomesti.pocminio.model.AlertEntity;
+import com.algomesti.pocseaweedfs.model.AlertEntity;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List; // Não esqueça do import do List

@@ -1,11 +1,11 @@
-package com.algomesti.pocminio;
+package com.algomesti.pocseaweedfs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlgomestiPocApplication {
+public class PocSeaweedfsApplication {
     public static void main(String[] args) {
-        SpringApplication.run(AlgomestiPocApplication.class, args);
+        SpringApplication.run(PocSeaweedfsApplication.class, args);
     }
 }

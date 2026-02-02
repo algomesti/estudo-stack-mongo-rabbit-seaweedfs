@@ -1,4 +1,4 @@
-package com.algomesti.pocminio.model;
+package com.algomesti.pocseaweedfs.model;
 
 import java.time.Instant;
 

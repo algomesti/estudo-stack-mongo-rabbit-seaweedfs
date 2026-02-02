@@ -1,6 +1,6 @@
-package com.algomesti.pocminio.config;
+package com.algomesti.pocseaweedfs.config;
 
-import com.algomesti.pocminio.job.CloudSyncJob;
+import com.algomesti.pocseaweedfs.job.CloudSyncJob;
 import org.quartz.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

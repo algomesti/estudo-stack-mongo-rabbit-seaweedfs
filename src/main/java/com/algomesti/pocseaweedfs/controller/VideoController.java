@@ -1,4 +1,4 @@
-package com.algomesti.pocminio.controller;
+package com.algomesti.pocseaweedfs.controller;
 
 import io.minio.GetPresignedObjectUrlArgs;
 import io.minio.MinioClient;

@@ -9,11 +9,11 @@ spring:
     username: admin
     password: password123
 
-minio:
-  url: http://localhost:9000
-  accessKey: admin
-  secretKey: password123
-  bucket: evidencias
+#minio:
+#  url: http://localhost:9000
+#  accessKey: admin
+#  secretKey: password123
+#  bucket: evidencias
 
 cloud:
   sync:
